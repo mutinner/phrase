@@ -1,0 +1,34 @@
+###lesson one
+
+* appoint
+    - appoint sb. as 
+    - appoint sb. to do
+* appointment
+    - make an appointment (with sb.)
+    - keep an appointment
+    - cancel an appointment
+* arrange 
+    - arrange to do sth
+    - arrange for sb. / sth. to do sth.
+    - arrange sth. with sb.
+* arrangement
+* attention
+    - give / pay attention to sb. / sth.
+* attract
+    - attract one's attention / interest
+* attraction
+* fascinate
+    - be fascinated with / by
+* attractive
+* delay
+    - delay (doing) sth.
+    - a delay of (an hour / tow days)
+* vary
+    - vary from ... to ...
+    - vary between ... and ...
+    - vary with ...
+    - vary in ...
+* alter
+* transfer
+    - transfer sb. / sth. to
+* 
