@@ -1,7 +1,7 @@
 ### lesson one
 
 * appoint
-    - appoint sb. as 
+    - appoint sb. as
     - appoint sb. to do
 * appointment
     - make an appointment (with sb.)
@@ -41,8 +41,26 @@
 * transform
     - transform sth. / sb. (from ...) into ...
 * transplant
-    - 
-
+* liberal
+* continuous (continue)
+* continual (continue)
+* long
+    - long for sth.
+    - long to do sth.
+    - so / as long as
+    - before long
+    - no longer
+    - so long
+* last
+    - as (long) last
+* outstanding
+* consistent
+* considerate
+* considering
+* optimistic
+    - be optimistic about ...
+* optional
+* obvious
 
 
 
