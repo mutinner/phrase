@@ -29,6 +29,20 @@
     - vary with ...
     - vary in ...
 * alter
+* shift
+* cultivate
+* seat
+* wear
+* lively
 * transfer
     - transfer sb. / sth. to
-* 
+* transport
+* transmit
+* transform
+    - transform sth. / sb. (from ...) into ...
+* transplant
+    - 
+
+
+
+
