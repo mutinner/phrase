@@ -17,9 +17,9 @@
 * attract
     - attract one's attention / interest
 * attraction
+* attractive
 * fascinate
     - be fascinated with / by
-* attractive
 * delay
     - delay (doing) sth.
     - a delay of (an hour / tow days)
