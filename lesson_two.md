@@ -42,4 +42,41 @@
 * tender
 * slight
 * mild
+* fundamental
+* comparative (compare)
+* comparison (compare)
+    - be / in comparison
+    - in comparison with / to ...
+* significant
+    - a significant remark / smile / look
+* significance
+    - be of (great / little) significance
+* certainly
+* trouble
+    - be in trouble
+    - have trouble dong sth.
+    - ask for trouble
+    - trouble sb. to do sth.
+    - take the trouble to do sth.
+    - have trouble with sb. / sth.
+* nuisance
+* worry
+* anxiety
+* anxious
+* go
+    - go by
+    - go down
+    - go for
+    - go in for
+    - go out
+    - go into
+    - go on
+    - go over
+    - go through
+    - go under
+    - go up
+    - go with ...
+    - go without ...
+    - on the go
+    - to go
 * 
