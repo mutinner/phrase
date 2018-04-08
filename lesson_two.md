@@ -79,4 +79,27 @@
     - go without ...
     - on the go
     - to go
-* 
+* rather
+    - would / had rather do sth. than do sth.
+    - rather than
+    - would rather sb. did sth.
+* postpone
+* refuse
+* cancel
+* all
+    - above all
+    - after all
+    - all but
+    - in all
+    - all in all
+    - all over
+    - for all
+    - at all
+* information
+* conservative
+* confident
+* content
+    - be content with ...
+    - be content to do sth.
+    - do sth. to one's heart's content
+* generous
