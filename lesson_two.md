@@ -21,4 +21,25 @@
 * smallow
 * dispose
     - dispose of
+* discard
+* make
+    - make believe
+    - make for
+    - make of
+    - make out
+    - make it
+    - make up
+    - make a dash for
+    - make a deal with ...
+* account
+    - on account of
+    - on no account
+    - on any account
+    - take ... into account
+* light
+    - in the light of
+    - throw / cast light on
+* tender
+* slight
+* mild
 * 
