@@ -40,4 +40,33 @@
 * preferable
 * liable
 * pile
-* 
+* refer
+    - refer to... as...
+* extent
+    - to a certain extent / to some extent
+* extension
+* spare
+    - (sth.) to spare
+    - spare time
+* assemble
+* supreme
+* accumulate
+* join
+* include
+* contain
+* involve
+    - involve sb. in sth.
+    - (sb.) be / get involved in sth.
+* comprise
+* face
+    - face to face
+    - in the face of
+    - face up to
+* course
+    - in the course of...
+* event
+    - in the event of / that...
+    - in the event
+    - at all events
+    - in any event
+* extra
