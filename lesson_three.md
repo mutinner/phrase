@@ -67,6 +67,5 @@
 * event
     - in the event of / that...
     - in the event
-    - at all events
-    - in any event
+    - at all events / in any event
 * extra
